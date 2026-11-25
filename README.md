@@ -64,4 +64,4 @@ MIT.
 
 - [json-formatter-and-validator](https://github.com/0xelitesystem/json-formatter-and-validator)
 - [jwt-inspector](https://github.com/0xelitesystem/jwt-inspector)
-- [gradient-generator](https://github.com/0xelitesystem/gradient-generator)
+- [css-gradient-composer](https://github.com/0xelitesystem/css-gradient-composer)
