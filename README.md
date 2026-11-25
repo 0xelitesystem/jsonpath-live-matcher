@@ -1,8 +1,8 @@
-# JSONPath Tester
+# JSONPath Live Matcher
 
 Paste JSON and a JSONPath expression, see the matched values and their paths live, in your browser. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/json-path-tester/
+**Live demo:** https://0xelitesystem.github.io/jsonpath-live-matcher/
 
 ## Use
 
@@ -42,8 +42,8 @@ Everything runs in your browser. The JSON you paste and the expressions you writ
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/json-path-tester
-cd json-path-tester
+git clone https://github.com/0xelitesystem/jsonpath-live-matcher
+cd jsonpath-live-matcher
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
@@ -63,5 +63,5 @@ MIT.
 ## Related
 
 - [json-formatter-and-validator](https://github.com/0xelitesystem/json-formatter-and-validator)
-- [jwt-inspector](https://github.com/0xelitesystem/jwt-inspector)
+- [jwt-verify-in-browser](https://github.com/0xelitesystem/jwt-verify-in-browser)
 - [css-gradient-composer](https://github.com/0xelitesystem/css-gradient-composer)
