@@ -62,6 +62,6 @@ MIT.
 
 ## Related
 
-- [json-formatter-and-validator](https://github.com/0xelitesystem/json-formatter-and-validator)
+- [json-format-minify-validate](https://github.com/0xelitesystem/json-format-minify-validate)
 - [jwt-verify-in-browser](https://github.com/0xelitesystem/jwt-verify-in-browser)
 - [css-gradient-composer](https://github.com/0xelitesystem/css-gradient-composer)
